@@ -22,7 +22,7 @@ for numero in rango{
     switch numero{
         
     case 30...40://Evaluar si  el numero se encuentra entre el 30 y el 40
-        banner = banner + " Viva SWIFT!!!"
+        banner = banner + " Viva SWIFT!!!" //agrega el valor "Viva Swift" al banner
     default:
         break
     }
